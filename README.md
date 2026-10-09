@@ -1,16 +1,16 @@
 # Hi 👋 I'm Sayed Mohammed
 
-Backend Developer specialized in building secure and scalable RESTful APIs. 
+Junior .NET Backend Developer specialized in building secure and scalable RESTful APIs.
 
-I enjoy designing Clean Architecture, implementing robust authentication systems (JWT), and managing relational databases using the .NET ecosystem.
+I enjoy designing Clean Architecture, implementing robust authentication systems, and managing relational databases using the .NET ecosystem.
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Skills
 
-* 💻 **C#** & **ASP.NET Core Web API**
-* 🗄️ **SQL Server** & **PostgreSQL**
-* ⚙️ **Entity Framework Core (EF Core)**
-* 🔐 **Authentication & Authorization (JWT)**
-* ⚛️ **React.js** (Frontend)
+* 💻 **Backend:** C#, ASP.NET Core, EF Core, LINQ, REST APIs, JWT
+* 🗄️ **Databases:** SQL Server, PostgreSQL
+* 🏗️ **Architecture:** Clean Architecture, SOLID, Design Patterns
+* ⚛️ **Frontend:** React.js, HTML/CSS/JavaScript
+* ⚙️ **Tools:** Git/GitHub, Postman, Swagger
 
 ## 📌 Featured Skills
 
