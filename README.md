@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Sayed Mohammed
 
-<!--
-**Sayed-Mohammed-A/Sayed-Mohammed-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer specialized in building secure and scalable RESTful APIs. 
 
-Here are some ideas to get you started:
+I enjoy designing Clean Architecture, implementing robust authentication systems (JWT), and managing relational databases using the .NET ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* 💻 **C#** & **ASP.NET Core Web API**
+* 🗄️ **SQL Server** & **PostgreSQL**
+* ⚙️ **Entity Framework Core (EF Core)**
+* 🔐 **Authentication & Authorization (JWT)**
+* ⚛️ **React.js** (Frontend)
+
+## 📌 Featured Skills
+
+* RESTful API Development
+* Clean Architecture & SOLID Principles
+* Object-Oriented Programming (OOP)
+* Database Design & LINQ
