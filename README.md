@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sayed Mohammed
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Sayed+Mohammed+👋;Junior+.NET+Backend+Developer;Turning+Coffee+into+C%23+Code+☕;Crafting+Clean+Architecture;Building+Scalable+APIs+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=550&lines=>_Junior+.NET+Developer;>_C%23+%7C+ASP.NET+Core+%7C+SQL;>_Executing_Clean_Code.exe...;>_Status:+Ready_to_Work!" alt="Typing SVG" />
 </p>
 
 Junior .NET Backend Developer specialized in building secure and scalable RESTful APIs.
